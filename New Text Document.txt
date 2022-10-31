@@ -1,0 +1,7 @@
+pip list -> To list the libraries in the current conda env
+
+Frame work -> Collection of libraries/packages
+
+__init__.py file created inside a folder to make that as a python package
+
+
